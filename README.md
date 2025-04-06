@@ -65,7 +65,10 @@ DrowsyGuard/ │ ├── frontend/ → Web Interface Files (HTML, CSS, JS) │
 
 ## Demo Video 🎥
 
-→ [Watch Demo Video Here]([(https://drive.google.com/file/d/1PNharp2D78fOPVpYLdzU0qEN9CnT_7bO/view?usp=sharing)])
+→ ## Demo Video 🎥
+
+[Watch Demo Video Here](https://drive.google.com/file/d/1PNharp2D78fOPVpYLdzU0qEN9CnT_7bO/view?usp=sharing)
+
 
 ---
 
