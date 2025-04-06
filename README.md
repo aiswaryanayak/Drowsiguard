@@ -72,13 +72,7 @@ DrowsyGuard/ │ ├── frontend/ → Web Interface Files (HTML, CSS, JS) │
 
 ---
 
-## Screenshots 📸
 
-(Add your uploaded screenshots here like)
-
-| Detection | Interface |
-|-----------|------------|
-| ![Detection](demo/detection.png) | ![Interface](demo/interface.png) |
 
 ---
 
