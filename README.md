@@ -30,12 +30,20 @@ DrowsyGuard is an AI-powered Driver Drowsiness Detection System designed to ensu
 - OpenCV  
 - TensorFlow / Keras  
 - CNN Model (Trained on Eye & Yawn Dataset)
+- Open cv
+- Anaconda (to majorly install dlib)
+- numpy
+- pyttsx3
+- scipy
 
 ### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap  
+ReactJS
+
+HTML / CSS / JS
+
+Axios (to call backend API)
+
+Webcam Integration (for live video capture)
 
 ### Tools & Platforms
 - VS Code  
